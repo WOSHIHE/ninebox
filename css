@@ -1,0 +1,22 @@
+    
+.box div{
+	
+	float: left;
+	background-color:yellow ;
+	width: 30%;
+	padding-bottom:30% ; 
+	margin:1.5%;
+	border-radius:10%;
+	
+	}
+	
+.box{
+  position: absolute;
+  left: 10%;
+  top: 10%;
+  width: 80%;
+  padding-bottom: 0%;
+  margin: 10px;
+  background:%000;
+  }
+  
